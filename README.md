@@ -66,7 +66,7 @@ Ikuti panduan ini untuk menginstal dan menjalankan proyek secara lokal.
 
 1.  **Masuk ke Direktori Flutter:**
     ```bash
-    cd good_health/mobile_app
+    cd good_health
     ```
 2.  **Instal Dependensi:**
     ```bash
