@@ -60,7 +60,7 @@ Ikuti panduan ini untuk menginstal dan menjalankan proyek secara lokal.
     cd good_health
     ```
 2.  **Setup PHP:**
-    - Pindahkan folder `goodhealth` di folder `api_server` ke direktori root web server Anda (ke `htdocs`).
+    - Pindahkan folder `goodhealth` di folder `api_server` ke direktori root web server kamu (ke `htdocs`).
 
 ### B. Setup Mobile App (Flutter)
 
