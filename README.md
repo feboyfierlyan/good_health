@@ -59,12 +59,8 @@ Ikuti panduan ini untuk menginstal dan menjalankan proyek secara lokal.
     git clone [https://github.com/feboyfierlyan/good_health.git](https://github.com/feboyfierlyan/good_health.git)
     cd good_health
     ```
-2.  **Konfigurasi Database:**
-    - Buat database baru di MySQL/phpMyAdmin (misalnya: `good_health_db`).
-    - Impor skema database dari file `database/good_health_db.sql` (jika tersedia).
-3.  **Setup PHP:**
-    - Pindahkan folder `api_server` ke direktori root web server Anda (misalnya `htdocs` atau `www`).
-    - Pastikan koneksi database di file konfigurasi PHP (`api_server/config/db.php` atau sejenisnya) sudah sesuai.
+2.  **Setup PHP:**
+    - Pindahkan folder `goodhealth` di folder `api_server` ke direktori root web server Anda (ke `htdocs`).
 
 ### B. Setup Mobile App (Flutter)
 
@@ -76,10 +72,7 @@ Ikuti panduan ini untuk menginstal dan menjalankan proyek secara lokal.
     ```bash
     flutter pub get
     ```
-3.  **Konfigurasi Base URL:**
-    - Buka file konfigurasi di proyek Flutter Anda (misalnya: `lib/constants/api_config.dart`).
-    - Ubah `BASE_URL` ke alamat server lokal Anda (misalnya: `http://10.0.2.2/api_server/` untuk emulator Android).
-4.  **Jalankan Aplikasi:**
+3.  **Jalankan Aplikasi:**
     ```bash
     flutter run
     ```
@@ -100,6 +93,6 @@ Proyek ini dirilis di bawah Lisensi **MIT**.
 
 ## 📞 Kontak
 
-Feboy Fierlyan - [Email Anda (Opsional)]
+Feboy Fierlyan - feboyfierlyan10@gmail.com
 
 Link Proyek: [https://github.com/feboyfierlyan/good_health](https://github.com/feboyfierlyan/good_health)
