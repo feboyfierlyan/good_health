@@ -10,7 +10,7 @@ import UIKit
   ) -> Bool {
 
     // --- TAMBAHKAN BARIS INI DENGAN API KEY ANDA ---
-    GMSServices.provideAPIKey("AIzaSyA8-I-u6qiAV1Fa0N1TNSq2Eu7aHjFs8U8")
+    GMSServices.provideAPIKey("API-KAMU-SENDIRI-YAA hehe")
     // ----------------------------------------------
 
     GeneratedPluginRegistrant.register(with: self)
