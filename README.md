@@ -16,8 +16,6 @@
 
 `GoodHealth` adalah aplikasi kesehatan berbasis mobile yang dirancang untuk mempermudah masyarakat dalam mengakses layanan medis. Aplikasi ini menjembatani pasien dengan dokter dan apotek, memungkinkan pengguna untuk menjadwalkan konsultasi serta memesan obat-obatan yang dapat diantar langsung ke lokasi.
 
-Proyek ini dibangun dengan fokus pada **kemudahan penggunaan (UX)**, **kecepatan**, dan **keamanan data medis**.
-
 ## 🚀 Fitur Utama
 
 `GoodHealth` menawarkan fitur-fitur yang esensial dan berorientasi pada kebutuhan pengguna modern:
@@ -80,10 +78,10 @@ Ikuti panduan ini untuk menginstal dan menjalankan proyek secara lokal.
 
 ## 🤝 Kontribusi
 
-Kami menyambut baik semua bentuk kontribusi! Jika Anda menemukan _bug_ atau ingin menyarankan fitur baru, silakan:
+kalo kamu nemu _bug_, silakan:
 
 1.  Buka **Issue** baru.
-2.  Buat **Pull Request** dengan _branch_ fitur Anda.
+2.  Buat **Pull Request** dengan _branch_.
 
 ## 📜 Lisensi
 
